@@ -27,7 +27,7 @@ nav .fas{
     position: fixed;
     top: 0;
     right: -200px;
-    width: 300px;
+    width: 350px;
     height: 100vh;
     padding-top: 50px;
     z-index: 2;
@@ -79,6 +79,7 @@ nav .fas{
   .copyright{
     font-size: 14px;
   }
+
 }
 
 #msg{
