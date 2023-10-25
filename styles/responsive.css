@@ -27,11 +27,13 @@ nav .fas{
     position: fixed;
     top: 0;
     right: -200px;
-    width: 150px;
+    width: 300px;
     height: 100vh;
     padding-top: 50px;
     z-index: 2;
     transition: right 0.5s;
+    display: flex;
+    flex-direction: column;
   }
 
   nav ul li{
