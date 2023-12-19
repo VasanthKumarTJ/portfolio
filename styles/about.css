@@ -32,7 +32,10 @@ body{
 
 .about-col-1 img{
   width: 100%;
+  margin-top: 10%;
   border-radius: 15px;
+  height: 80%;
+  object-fit: cover;
 }
 
 .about-col-2{
