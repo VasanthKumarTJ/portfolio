@@ -23,11 +23,11 @@ nav .fas{
   }
 
   nav ul{
-    background: #ff004f;
+    background: #61b752;
     position: fixed;
     top: 0;
     right: 0px;
-    width: 350px;
+    width: 330px;
     height: 220px;
     padding-top: 50px;
     z-index: 2;
