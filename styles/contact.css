@@ -29,7 +29,7 @@
   text-decoration: none;
   font-size: 30px;
   margin-right: 15px;
-  color: lightpink;
+  color: #A6FF96;
   display: inline-block;
   transition: transform 0.5s;
 }
@@ -37,11 +37,21 @@
 .social-icons a:hover{
   color: initial;
   transform: translateY(-5px);
+  transition: transform 0.5s;
+  color: #A6FF96;
 }
 
 .btn.btn2{
   display: inline-block;
-  background: #ff004f;
+  background: #A6FF96;
+  color: black;
+}
+
+.btn.btn2:hover{
+  display: inline-block;
+  background: #A6FF96;
+  color: black;
+  border-color:forestgreen;
 }
 
 .contact-right form{

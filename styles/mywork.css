@@ -26,7 +26,7 @@
 
 .layer{
   height: 0;
-  background: linear-gradient(rgba(0,0,0,0.6), #ff004f);
+  background: linear-gradient(rgba(0,0,0,0.6), #61b752);
   border-radius: 10px;
   position: absolute;
   left: 0;
@@ -44,7 +44,7 @@
 
 .goto-project{
   height: 0;
-  background: linear-gradient(rgba(0,0,0,0.6), #ff004f);
+  background: linear-gradient(rgba(0,0,0,0.6), #61b752);
   border-radius: 10px;
   position: absolute;
   left: 0;
@@ -68,7 +68,7 @@
 
 .layer a{
   margin-top: 20px;
-  color: #ff004f;
+  color: #61b752;
   text-decoration: none;
   font-size: 18px;
   line-height: 60px;
@@ -91,7 +91,7 @@
   display: block;
   margin: 50px auto;
   width: fit-content;
-  border: 1px solid #ff004f;
+  border: 1px solid #A6FF96;
   padding: 14px 50px;
   border-radius: 6px;
   text-decoration: none;
